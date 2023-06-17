@@ -22,12 +22,11 @@ Tech Stack:
     - Meta Ad Manager
 
 My #1 Hobby - Sim Racing :racing_car:
-!/sim_rig.jpg
-
+!(/sim_rig.jpg)
 
 The quote carries me through challenges
 “This is the way!”
-!/the_mandalorian_season1_poster.jpg
+!(/the_mandalorian_season1_poster.jpg)
 
 Photo Credit: Disney+ The Mandalorian
 https://press.disney.co.uk/press-kit/the-mandalorian-season-3
