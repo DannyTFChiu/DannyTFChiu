@@ -31,4 +31,4 @@ Tech Stack:
 
 ![Quote](/the_mandalorian_season1_poster.jpg)
 
-Photo Credit: [Disney+ The Mandalorian](https://press.disney.co.uk/press-kit/the-mandalorian-season-3)
+Photo Credit: [Disney+ The Mandalorian](https://press.disney.co.uk/press-kit/the-mandalorian)
