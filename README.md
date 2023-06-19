@@ -21,14 +21,14 @@ Tech Stack:
     - Google Campign Manager
     - Meta Ad Manager
 
-My #1 Hobby - Sim Racing :racing_car:
+**My #1 Hobby - Sim Racing** :racing_car:
 
 ![Hobby](/sim_rig.jpg)
 
-The quote carries me through challenges
+**The quote carries me through challenges**
 
-“This is the way!”
+### **“This is the way!”**
 
 ![Quote](/the_mandalorian_season1_poster.jpg)
 
-Photo Credit: [Disney+ The Mandalorian] (https://press.disney.co.uk/press-kit/the-mandalorian-season-3)
+Photo Credit: [Disney+ The Mandalorian](https://press.disney.co.uk/press-kit/the-mandalorian-season-3)
